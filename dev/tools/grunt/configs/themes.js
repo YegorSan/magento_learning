@@ -41,6 +41,15 @@ module.exports = {
         ],
         dsl: 'less'
     },
+    newtheme: {
+        area: 'frontend',
+        name: 'Yegor/newtheme',
+        locale: 'en_US',
+        files: [
+            'css/newtheme'
+        ],
+        dsl: 'less'
+    },
     backend: {
         area: 'adminhtml',
         name: 'Magento/backend',
